@@ -18,7 +18,6 @@ This is a simple blog platform that allows users to create, update, and delete p
 
     ```bash
     git clone https://github.com/your-username/basic-blog-platform.git
-    cd basic-blog-platform
     ```
 
 2. **Install dependencies:**
